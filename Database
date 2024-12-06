@@ -1,4 +1,4 @@
-### Skapa ett ER-diagram för SQL-databasen ###
+### Skapa ett ER-diagram för SQL-databasen för att sedan implementera detta och få en fungerande databas###
 
 Målet är att skapa ett ER-diagram, diagram är grunden till databasen. 
 Skala ner och se sambandet mellan primära och främmande nycklar och förstå hur en databas fungerar på ett enkelt plan. 
