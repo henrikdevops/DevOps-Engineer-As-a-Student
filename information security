@@ -1,0 +1,74 @@
+Datum: 2024-06-14
+
+		
+<<<<<<
+1. Lagar och Regleringar:
+Redogör för hur specifika lagar och regleringar, såsom GDPR och NIS-lagen, påverkar efterlevnadsstandarder i en organisation. 
+Reflektering över hur dessa regleringar kan påverka din framtida yrkesroll som DevOps Engineer och ge exempel på hur du skulle säkerställa efterlevnad inom den organisation du tänker att du ska arbeta i framtiden.
+
+
+I takt med den utveckling och digitalisering i Sverige och runt om i världen kräver detta ett betydligt mycket mer tänk kring hur vi tar hand om vår information vi hanterar inom olika organisationer.
+Hela syftet med de regler och lagar är att vi på ett säkert sätt ska hantera känslig information, om inte detta görs på ett korrekt sätt kan detta få allvarliga konsekvenser som till exempel sanktioner.
+Att följa GDPR och NIS-direktivet är numera A och O för att på detta sätt i högre grad försöka skydda organisationer från cyberattacker.
+Att följa ISO standarder inom 27000-serien och en väl utförd policy där det framgår klart och tydligt vilka riktlinjer som ska följas är en stor del av arbetet för säkerheten.
+
+Som DevOps Engineer har du ett omfattande område att ta hänsyn till när det gäller implementeringar av säkerhetsåtgärder, hantering av olika incidenter och nog utförd dokumentation.
+Med hjälp av kryptering, striktare säkerhetskontroller ökar vi organisationen säkerhet. I mitt arbete som DevOps Engineer är det tre nyckelord jag skulle använda mig av i min roll.
+Konfidentalitet, integritet och tillgänglighet. På så sätt minskar vi risken för läckage, manipulation och säker miljö för hård och mjuk-vara. 
+
+Vid en tänkbar incident bör vi vara väl förberedda, där av vikten att identifiera potentiella hot och risker i tidigt skede, göra riskbedömning av potentiella av de risker och hot som vi identifierat.
+Hur ska incidenter prioriteras? För att underlätta detta arbete är det viktigt att jag som individ hela tiden försöker tänka kritiskt och förmedlar detta till alla i min omgivning. 
+
+Chefer har högsta ansvaret för att göra anställda medvetna om de risker som finns men alla anställda bör dela med sig av nyheter och information som denne besitter på. 
+Att hela tiden utbilda och göra alla medvetna är en stor del för att öka riskmedvetandet, där har jag som individ ett stort ansvar.
+
+Kontinuerligt arbeta med efterlevnad ligger till stor grund för att minska de risker och potentiella hot som kan uppstå, och på så sätt undvika konsekvenser som till exempel sanktioner som jag tidigare nämnt.
+>>>>>>
+
+
+<<<<<<
+2. Tekniska Säkerhetsåtgärder:
+Förklaring av tekniska säkerhetsåtgärder som nätverkssäkerhetstekniker, applikationssäkerhet och krypteringsmetoder. Diskutera vilka av dessa åtgärder du anser vara mest kritiska för att skydda en organisationsinformation och motivera varför. 
+Inkludera exempel från praktiska scenarion där dessa åtgärder har använts effektivt och på vilket sätt din roll som DevOps ingenjör tar plats.
+
+
+Med hjälp av brandväggar, detekteringssystem, intrångsskydd (IDS/IPS), segmentering så kan vi öka säkerheten med hjälp av dessa tekniker. 
+Att reglera trafiken i en brandvägg i kombination med system som övervakar och varnar för ovanlig datatrafik kan dessa system blockera trafiken. 
+Poängterar dock vikten av att det krävs goda kunskaper från den som administrerar brandväggen så att konfigurationen går rätt till. När IDS larmar om hot är det IPS uppgift att blockera dessa hot.
+Vill också påminna här om vikten av att konfigurationen och placering av IDS/IPS är viktigt att beakta. 
+
+I det stora hela vill jag påstå att alla tre åtgärder i en kombination är kritiska. Visst att, med hjälp av segmentering av nätverk kan vi göra det otroligt svårt för hackare att röra sig runt i nätverket då fler brandväggar och säkerhetssystem ska tas igenom.
+Men om känslig information inte är rätt krypterad spelar det ingen roll hur segmenteringen är konfigurerad.
+Hur bra och säker är applikationen? Vilken information kan läckas via en applikation? Jag vill påstå att det är svårt att peka ut en specifik ”bov i dramat” eftersom det är kombinationen som är helheten.
+Om jag måste eller tvingas välja en säkerhetsåtgärd vill jag säga segmenteringen är den mest kritiska där jag sprider ut känslig information i nätverket som är svår att koppla till varandra. 
+
+Praktiskt exempel: 
+Organisationen har implementerat brandväggar och system som IDS/IPS för att skydda organisationen och dess nätverk för att hålla otillåten trafik borta. Ett skanningsverktyg som OWSP för sårbarhetsskanning för att hitta potentiella sårbarheter i applikationer.
+
+En SWOT analys skulle kunna vara en del av arbetet med att skydda organisationen. Att implementera en SWOT i kombination med de systemen anser jag kan medföra positiv påverkan. 
+Eftersom alla jobbar på olika avdelningar men samtidigt inom samma organisationen kanske behoven ser olika ut beroende på avdelning och vilken typ av information som finns.
+>>>>>>
+
+
+
+<<<<<<
+3. Tillämpning av Säkerhetsverktyg:
+Användning av verktyg för nätverkssäkerhet, skanning och övervakning för att identifiera och hantera säkerhetsrisker inom en organisation. 
+Reflektion om verktyg & varför, samt granskning av användaråtkomst till system och data för att säkerställa dataintegritet.
+
+
+Några verktyg att använda sig a för att identifiera och hantera risker:
+Nmap, Nessus, Wireshark, IDS/IPS, splunk, SIEM
+
+Dessa verktyg kan vi använda oss av när vi vill upptäcka enheter inom nätverket, se vilka portar som är öppna, och vilka tjänster som är i gång. 
+Att kunna läsa av data i realtid med verktyg som Wireshark hjälper oss att analysera och felsöka. Att snorta till sig och upptäcka intrång via IDS/IPS verktyg häjlper oss att upptäcka potentiella intrång och oönskad datatrafik.
+
+För att på något sätt hantera den trafik som sker behöver vi ett system för loggar där vi kan gå tillbaka vid behov för analyser. Genom loggar kan vi på så sätt identifiera potentiella hot och implementera ytterligare säkerhetsåtgärder för en säkrare miljö. 
+Genom att använda oss av dessa typer av verktyg och systematiskt jobba i de riktlinjer och följa bästa praxis hjälper detta oss att upprätthålla ett nätverk som omfattar en säker miljö. 
+Detta ligger till grund för att möjliggöra upptäcker och att övervakning och loggning sker på bästa sätt och på detta vis kunna ta hand om de potentiella säkerhetsproblem som kan uppstå. 
+
+Eftersom den mänskliga faktorn oftast har en stor påverkan på säkerheten bör roller skapas och tilldelas vilket säkerställer att specifika individer har åtkomst till olika typer av information. 
+Jag skulle ha i åtanke att arbeta efter minsta privilegium och implementera MFA för att säkerställa att åtkomsten stryps. 
+
+För att säkerställa att data inte manipuleras bör loggningssystem för roller sättas upp och på så sätt kan vi analysera och övervaka en incident. Här kan varningar ingå för aktiviteter som inte är normala för organisationens hälsa. 
+>>>>>>
