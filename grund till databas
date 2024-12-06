@@ -1,17 +1,20 @@
-Skapa ett ER-diagram för SQL-databasen  :
+### Skapa ett ER-diagram för SQL-databasen ###
 
-Målet med veckans uppgift är att skapa ett ER-diagram, detta diagram ska ligga till grund för min databas. Att skala ner och se sambandet mellan primära och främmande nycklar och förstå hur en databas fungerar på ett enkelt plan. 
-För att skapa ER-diagrammet har jag använt mig av DRAWIO. Kolumnerna som finns i programmet gör det enkelt för oss att skapa den minsta gemensamma nämnaren som är den primära nyckeln. I kolumnerna jag skapat har jag lagt in de entiteterna och attribut som jag anser är grunden för en fungerande web shop. 
+Målet är att skapa ett ER-diagram, diagram är grunden till databasen. 
+Skala ner och se sambandet mellan primära och främmande nycklar och förstå hur en databas fungerar på ett enkelt plan. 
+ER-diagrammet är skapat i Workbench.
+Tänk på minsta gemensamma nämnaren: PK, primära nyckeln.
+ 
 
-Jag har använt mig av UML som typen av ER-Diagram och craw’s foot som notationssystem. 
+ER-diagram:         UML
+Notationssystem:    Craws's foot 
 
-Jag har skapat mitt diagram. Jag har fått med de primära och främmande nycklarna på ett bra sätt där vi kan se sambandet mellan kolumnerna. Diagrammet för min databas har även information om datatyper, som CHAR och INT som är nödvändiga.
+Jag har fått med de primära och främmande nycklarna på ett bra sätt där vi kan se sambandet mellan kolumnerna. 
+Diagrammet för min databas har även information om datatyper, som CHAR och INT som är nödvändiga.
 
-Jag har fått en helt ny förståelse för hur databasen fungerar. Jag har gått in på hemsidor och testat att lägga till varor i en order, se orderrader, leveranaalternativ och betalningssätt. Detta har jag gjort för att få en mer klar bild inom ämnet. 
 
-Utmaningarna har mest varit om hur allt hänger samman med PK, FK och notationssystemet. Desginen kommer 
-
-Val av entiteter, attribut och relationer
+Val av entiteter, attribut, relationer.
+-----------------------------------------
 Entiteter
 KUND
 Förnamn, Efternamn, Adress, Nr, Post Nr, Mejl, Telefonnummer
@@ -27,8 +30,8 @@ LEVERANSALTERNATIV
 Speditör, Pris
 BETALSÄTT
 Namn
-
+------------------------------------------
 
 ############ TO DO LIST ###########
 
-CRUD för hur jag har skapat mina tabeller, attribut, PK, FK och relationer mellan tabellerna 
+CRUD för hur jag har skapat mina tabeller, attribut, datatyper, PK, FK och relationer mellan tabellerna 
