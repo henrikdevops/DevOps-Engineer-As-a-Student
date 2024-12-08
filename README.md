@@ -1,1 +1,1 @@
-My life as DevOps Engineer Student
+My life as a DevOps Engineer Student
